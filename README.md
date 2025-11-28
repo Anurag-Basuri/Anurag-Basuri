@@ -7,10 +7,16 @@
 
 ---
 
-## 🚀 About Me  
-I'm a Computer Science undergrad passionate about blending **code + cognition + creativity**.  
-I love architecting full-stack experiences and experimenting with **LLMs, Generative AI, and reasoning systems**.  
-With **450+ LeetCode problems solved**, I thrive on challenges where logic meets impact.
+## 🚀 About Me
+I'm a Computer Science undergrad passionate about building systems where **engineering meets intelligence**.  
+My work lies at the intersection of **Full-Stack Development**, **AI/ML**, and **LLM-driven automation**, creating applications that don't just run — they understand.
+
+I’ve built platforms ranging from **AI-based exam evaluation systems** to **scalable multi-portal club management tools** and **media-rich streaming applications**.  
+Whether it’s designing smooth, reactive frontends or engineering backend systems with real-time features and AI-powered decision logic, I strive to create solutions that **think, adapt, and deliver impact**.
+
+With **450+ LeetCode problems solved**, I enjoy tackling complexity, breaking problems apart, and crafting elegant, optimized solutions.
+
+At my core, I love transforming ideas into intelligent, user-centric experiences — and I’m always exploring ways to push the boundaries of what software can do.
 
 ---
 

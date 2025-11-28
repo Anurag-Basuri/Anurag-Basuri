@@ -26,7 +26,6 @@ With **450+ LeetCode problems solved**, I thrive on challenges where logic meets
 
 ## 📊 GitHub Analytics  
 <p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=Anurag-Basuri&show_icons=true&theme=tokyonight" />
   <img height="155" src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag-Basuri&theme=tokyonight" />
 </p>
 

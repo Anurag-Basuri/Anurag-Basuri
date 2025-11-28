@@ -9,8 +9,8 @@
 
 ## 🚀 About Me  
 I'm a Computer Science undergrad passionate about blending **code + cognition + creativity**.  
-I enjoy architecting full-stack experiences and experimenting with **LLMs, Generative AI, and reasoning systems**.  
-With **450+ LeetCode problems solved**, I thrive on challenges where logic meets real-world impact.
+I love architecting full-stack experiences and experimenting with **LLMs, Generative AI, and reasoning systems**.  
+With **450+ LeetCode problems solved**, I thrive on challenges where logic meets impact.
 
 ---
 
@@ -33,6 +33,18 @@ With **450+ LeetCode problems solved**, I thrive on challenges where logic meets
 <p align="center">
   <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-Basuri&layout=compact&theme=tokyonight" />
   <img height="155" src="https://github-contributor-stats.vercel.app/api?username=Anurag-Basuri&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+## 🟩 LeetCode Stats  
+<p align="center">
+  <img height="180" src="https://leetcard.jacoblin.cool/Anurag_Basuri?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
+</p>
+
+<p align="center">
+  <strong>LeetCode Profile:</strong>  
+  <a href="https://leetcode.com/u/Anurag_Basuri/">https://leetcode.com/u/Anurag_Basuri/</a>
 </p>
 
 ---

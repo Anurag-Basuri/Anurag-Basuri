@@ -87,13 +87,6 @@ With **450+ LeetCode problems solved**, I love breaking down complex problems, a
 
 ---
 
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anurag-Basuri/Anurag-Basuri/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 ## 🌐 Connect With Me  
 <p align="center">
   <a href="https://linkedin.com/in/anuragbasuri">LinkedIn</a> •

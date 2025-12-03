@@ -1,4 +1,4 @@
-<!-- ================================= HEADER ================================= -->
+<!-- ========================== HEADER ========================== -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=4DD0E1&center=true&vCenter=true&width=800&lines=Hey+There!+I'm+Anurag+Basuri+👋;Full+Stack+Developer+%7C+AI+Enthusiast" />
@@ -12,69 +12,73 @@
 
 ---
 
-<!-- ================================= ABOUT ME ================================= -->
+<!-- ========================== ABOUT ME ========================== -->
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me  
 
-I'm a Computer Science undergrad focused on building **clean, scalable, and thoughtful systems** across the MERN stack and modern AI tooling.  
-My work revolves around understanding how interfaces, data, and intelligence flow together to create meaningful applications.
+It started with “Hello, World!” — and grew into a passion for building **intelligent, thoughtful systems** that create real value.
 
-I enjoy exploring how LLMs, NLP, and automation pipelines can augment real-world workflows.  
-On the engineering side, I'm deeply interested in **Next.js**, backend architecture, platform design, and developer tooling.
+I’m **Anurag Basuri**, a CSE undergrad who enjoys building at the intersection of  
+**full-stack engineering → (Next.js, MERN)** and  
+**machine intelligence → (LLMs, NLP, ML)**.
 
-I like solving problems (450+ LeetCode), refining system design skills, and building software that is both **functional and intuitive**.
+I love crafting clean, scalable user experiences while also exploring how machines **learn, reason, and adapt**.  
+For me, great software isn’t just code — it's a system that solves real problems.
 
----
-
-<!-- ================================= WHAT I'M DOING NOW ================================= -->
-
-## 📌 What I'm Working On
-
-- Building stronger foundations in **Next.js**, serverless patterns, and full-stack architecture  
-- Exploring **LLMs, NLP**, evaluation pipelines, and intelligent agents  
-- Improving reasoning systems using **vector search, embeddings, and automation tools**  
-- Studying **system design** and scalable backend patterns  
-- Working on developer workflows using **MCP, n8n, and agent-based automation**
+My work philosophy:  
+✨ *“Build things that matter. Build things that think.”*  
 
 ---
 
-<!-- ================================= TOOLS & TECH STACK ================================= -->
+<!-- ========================== WHAT I'M DOING NOW ========================== -->
+
+## 📌 What I'm Doing Right Now  
+
+- 🚀 Building a new **Next.js project** blending intelligence + great UX  
+- 🤖 Learning **Advanced ML & NLP** for deeper AI understanding  
+- 🔢 Staying sharp with **450+ LeetCode solutions**  
+- 💼 Exploring **internship & freelance** opportunities  
+- 🌱 Staying curious about automation, intelligent agents, and emerging tools  
+
+---
+
+<!-- ========================== TOOLS & TECHNOLOGIES ========================== -->
 
 ## 🛠 Tools & Technologies  
 
-A concise snapshot of the technologies I work with, grouped meaningfully.
+A clean snapshot of the technologies I use — grouped meaningfully and kept minimal.
 
-### **Frontend**
-- React.js, Next.js  
+### **🎨 Frontend**
+- React, Next.js  
 - JavaScript, TypeScript  
 - Tailwind CSS, Redux  
 
-### **Backend**
+### **⚙️ Backend**
 - Node.js, Express.js  
 - REST APIs, WebSockets  
-- Authentication, backend patterns  
+- Authentication, backend architecture  
 
-### **Databases**
+### **🗄️ Databases**
 - MongoDB  
 - PostgreSQL  
 - Redis  
 
-### **AI / ML**
+### **🤖 AI / ML**
 - Python  
-- LLMs, NLP  
-- Evaluation systems, embeddings, vector search  
+- LLMs & NLP  
+- Vector search, embeddings, evaluation pipelines  
 
-### **Tools & Platforms**
+### **🧰 Tools & Platforms**
 - Git, Docker  
 - Postman  
 - Linux  
-- AWS & GCP (beginner-level exploration)  
+- AWS & GCP (learning)  
 
 ---
 
-<!-- ================================= GITHUB ANALYTICS ================================= -->
+<!-- ========================== GITHUB ANALYTICS ========================== -->
 
-## 📊 GitHub Insights
+## 📊 GitHub Insights  
 
 <p align="center">
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag-Basuri&theme=tokyonight&hide_border=true" />
@@ -90,11 +94,14 @@ A concise snapshot of the technologies I work with, grouped meaningfully.
 
 ---
 
-<!-- ================================= CONTACT ================================= -->
+<!-- ========================== CONNECT ========================== -->
 
 ## 🌐 Connect With Me  
+
 <p align="center">
   <a href="https://linkedin.com/in/anuragbasuri">LinkedIn</a> •
   <a href="https://github.com/Anurag-Basuri">GitHub</a> •
   <a href="mailto:anuragbasuri@gmail.com">Email</a>
 </p>
+
+<p align="center"><b>Let’s build something meaningful — and intelligent — together.</b></p>

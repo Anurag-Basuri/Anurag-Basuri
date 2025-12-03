@@ -44,102 +44,57 @@ My work philosophy:
 
 <!-- ========================== TOOLS & TECHNOLOGIES ========================== -->
 
-## 🛠 Tools & Technologies  
+## 🛠 Tools & Tech Stack  
 
-<!-- Clean icon grid -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,ts,js,nodejs,express,mongodb,postgres,redis,python,git,docker,linux,tailwind,postman,aws,gcp&perline=10" />
-</p>
-
-<!-- Categorized icon rows (minimal + visual only) -->
-
-### 🎨 Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="40" />
-  <img src="https://skillicons.dev/icons?i=next" height="40" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
-</p>
-
-### ⚙️ Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="40" />
-</p>
-
-### 🗄️ Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" />
-  <img src="https://skillicons.dev/icons?i=redis" height="40" />
-</p>
-
-### 🤖 Machine Intelligence
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="40" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" /> 
-</p>
-
-### 🧰 Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="40" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" />
-</p>
-## 🛠 Tools & Tech Stack
-
-### **🧩 Technologies I Work With**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,redux,nodejs,express,mongodb,postgres,redis,python,java,cpp,git,docker,aws,gcp,postman,vscode,linux&perline=10" />
+### 🎨 **Frontend**
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
 </p>
 
 ---
 
-### ⚡ **Core Skills (Grouped & Badged)**
-
-#### 🎨 **Frontend**
+### ⚙️ **Backend**
 <p>
-  <img src="https://img.shields.io/badge/React-61dafb?style=flat&logo=react"/>
-  <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=nextdotjs"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38bdf8?style=flat&logo=tailwindcss"/>
-  <img src="https://img.shields.io/badge/Redux-764abc?style=flat&logo=redux"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSockets-333333?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=apidoc&logoColor=white"/>
 </p>
 
-#### ⚙️ **Backend**
+---
+
+### 🗄️ **Databases**
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs"/>
-  <img src="https://img.shields.io/badge/Express.js-grey?style=flat&logo=express"/>
-  <img src="https://img.shields.io/badge/WebSockets-333?style=flat&logo=socketdotio"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
-#### 🗄️ **Databases**
+---
+
+### 🤖 **AI / Machine Learning**
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/Redis-red?style=flat&logo=redis"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-31648c?style=flat&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-5E5EE6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GenAI-7A00F5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-#### 🤖 **AI / ML**
-<p>
-  <img src="https://img.shields.io/badge/LLMs-000?style=flat&logo=openai"/>
-  <img src="https://img.shields.io/badge/NLP-5e5ee6?style=flat"/>
-  <img src="https://img.shields.io/badge/GenAI-purple?style=flat"/>
-</p>
+---
 
-#### 🧰 **Tools & Platforms**
+### 🧰 **Tools & Platforms**
 <p>
-  <img src="https://img.shields.io/badge/Git-f05033?style=flat&logo=git"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonwebservices"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud"/>
-  <img src="https://img.shields.io/badge/Postman-f76935?style=flat&logo=postman"/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 </p>
-
 
 ## 📊 Developer Insights  
 

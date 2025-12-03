@@ -98,25 +98,26 @@ My work philosophy:
 
 ## 📊 Developer Insights  
 
-<!-- GitHub Streak -->
+<!-- GitHub Streak (stable) -->
 <p align="center">
-  <img height="155" src="https://github-readme-streak-stats.herokuapp.com?user=Anurag-Basuri&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Anurag-Basuri&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- GitHub Languages + Summary -->
+<!-- GitHub Languages -->
 <p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-Basuri&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-Basuri&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
+<!-- GitHub Profile Summary (stable fork) -->
 <p align="center">
-  <img height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anurag-Basuri&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anurag-Basuri&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🟩 LeetCode Stats  
 <p align="center">
-  <img height="200" src="https://leetcard.jacoblin.cool/Anurag_Basuri?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
+  <img height="230" src="https://leetcard.jacoblin.cool/Anurag_Basuri?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0" />
 </p>
 
 

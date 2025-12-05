@@ -19,8 +19,7 @@
 It started with “Hello, World!” — and grew into a passion for building **intelligent, thoughtful systems** that create real value.
 
 I’m **Anurag Basuri**, a CSE undergrad who enjoys building at the intersection of  
-**full-stack engineering → (Next.js, MERN)** and  
-**machine intelligence → (LLMs, NLP, ML)**.
+**full-stack engineering → (Next.js, MERN)** and  **machine intelligence → (LLMs, NLP, ML)**.
 
 I love crafting clean, scalable user experiences while also exploring how machines **learn, reason, and adapt**.  
 For me, great software isn’t just code — it's a system that solves real problems.

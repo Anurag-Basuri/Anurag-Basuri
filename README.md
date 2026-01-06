@@ -84,27 +84,38 @@ I focus on crafting **clean, scalable user experiences** and building systems th
 
 ---
 
-## 📊 Developer Insights  
+## 📊 Developer Insights
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=Anurag-Basuri&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=Anurag-Basuri&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anurag-Basuri&theme=tokyonight" />
+  <sub>
+    Consistent contributions and long-term engagement with real projects.
+  </sub>
 </p>
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-Basuri&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 
 ---
 
-## 🟩 LeetCode  
+## 🟩 Problem Solving (LeetCode)
 
 <p align="center">
-  <img height="230" src="https://leetcard.jacoblin.cool/Anurag_Basuri?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0" />
+  <img
+    src="https://leetcard.jacoblin.cool/Anurag_Basuri?theme=dark&font=JetBrains%20Mono&border=0"
+    height="240"
+    alt="LeetCode Stats"
+  />
+</p>
+
+<p align="center">
+  <sub>
+    Strong problem-solving foundation with emphasis on data structures and algorithms.
+  </sub>
 </p>
 
 ---

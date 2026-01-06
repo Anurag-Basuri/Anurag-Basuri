@@ -21,7 +21,7 @@ I’m **Anurag Basuri**, a Computer Science undergraduate who enjoys working at 
 **full-stack engineering** *(Next.js, MERN)* and  
 **machine intelligence** *(LLMs, NLP, ML)*.
 
-I focus on crafting **clean, scalable user experiences** while exploring how software can  
+I focus on crafting **clean, scalable user experiences** and building systems that can  
 **learn, reason, and adapt**.
 
 > ✨ *Build things that matter. Build things that think.*
@@ -93,6 +93,11 @@ I focus on crafting **clean, scalable user experiences** while exploring how sof
 <p align="center">
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anurag-Basuri&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-Basuri&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ---
 

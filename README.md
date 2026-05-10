@@ -130,37 +130,44 @@ I enjoy building software that is not only functional, but capable of adapting, 
 
 ---
 
-## 📊 Developer Insights
+## 📈 Engineering Signals  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-550%2B%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Peak_Rating-1686-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Applied%20AI%20Systems-0A0A0A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Architecture-Backend--Heavy-1B1B1B?style=for-the-badge"/>
+</p>
+
+---
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Anurag-Basuri&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="GitHub Contribution Streak"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Anurag-Basuri&theme=tokyo-night&hide_border=true&area=true"
+    width="95%"
+    alt="GitHub Activity Graph"
   />
 </p>
 
 <p align="center">
   <sub>
-    Consistent contributions and long-term engagement with real projects.
+    Consistent public engineering work, experimentation, and long-term learning across full-stack and AI systems.
   </sub>
 </p>
 
 ---
 
-## 🟩 Problem Solving (LeetCode)
-
 <p align="center">
   <img
-    src="https://leetcard.jacoblin.cool/Anurag_Basuri?theme=dark&font=JetBrains%20Mono&border=0"
-    height="240"
+    src="https://leetcard.jacoblin.cool/Anurag_Basuri?theme=dark&font=JetBrains%20Mono&border=0&ext=contest"
+    height="230"
     alt="LeetCode Stats"
   />
 </p>
 
 <p align="center">
   <sub>
-    Strong problem-solving foundation with emphasis on data structures and algorithms.
+    Strong problem-solving foundation with emphasis on algorithms, systems thinking, and consistency.
   </sub>
 </p>
 

@@ -37,13 +37,14 @@ I enjoy building software that is not only functional, but capable of adapting, 
 
 ---
 
-## 📌 What I’m Doing Right Now  
+## 📌 Current Focus  
 
-- 🚀 Building a **Next.js** project focused on intelligence + UX  
-- 🤖 Strengthening fundamentals in **Advanced ML & NLP**  
-- 🔢 Staying consistent with **450+ LeetCode problems**  
-- 💼 Exploring **internship & freelance** opportunities  
-- 🌱 Learning about automation, agents, and modern dev tooling  
+- 🤖 Exploring **AI orchestration**, agentic workflows, and MCP ecosystems  
+- ⚙️ Designing backend-heavy systems with scalable architectures  
+- 🧠 Working with **LLMs, LangChain, LangGraph, RAG pipelines, and vector retrieval**  
+- 🔍 Strengthening understanding of **ML, NLP, and intelligent evaluation systems**  
+- 🔢 Maintaining consistency in problem solving (**550+ LeetCode**)  
+- 🌱 Continuously learning how intelligent systems behave in production environments 
 
 ---
 

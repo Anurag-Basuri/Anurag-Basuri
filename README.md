@@ -1,7 +1,7 @@
 <!-- ========================== HEADER ========================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3800&pause=800&color=4DD0E1&center=true&vCenter=true&width=820&lines=Hey+There!+I'm+Anurag+Basuri+👋;Full+Stack+Developer+%7C+AI+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=27&duration=3500&pause=900&color=4DD0E1&center=true&vCenter=true&width=900&lines=Hey+There!+I'm+Anurag+Basuri+👋;Applied+AI+Systems+%7C+Full+Stack+Engineering" />
 </p>
 
 <h1 align="center">Welcome to My GitHub</h1>
@@ -14,17 +14,26 @@
 
 ## 👨‍💻 About Me  
 
-It started with *“Hello, World!”* — and grew into a passion for building  
-**intelligent, thoughtful systems** that create real impact.
+It started with *“Hello, World!”* — and gradually evolved into a passion for building systems that solve meaningful problems.
 
-I’m **Anurag Basuri**, a Computer Science undergraduate who enjoys working at the intersection of  
-**full-stack engineering** *(Next.js, MERN)* and  
-**machine intelligence** *(LLMs, NLP, ML)*.
+I’m **Anurag Basuri**, a Computer Science undergraduate working at the intersection of  
+**full-stack engineering**, **backend architecture**, and **Applied AI systems**.
 
-I focus on crafting **clean, scalable user experiences** and building systems that can  
-**learn, reason, and adapt**.
+My foundation is rooted in building scalable web applications using technologies like  
+**React.js, Next.js, Node.js, Express.js, NestJS, and FastAPI** — but over time, my curiosity shifted toward understanding how intelligent systems behave beyond simple demos.
 
-> ✨ *Build things that matter. Build things that think.*
+I’ve worked with:
+- LLMs & NLP workflows  
+- RAG pipelines & vector databases  
+- LangChain & LangGraph orchestration  
+- AI evaluation systems & agentic workflows  
+- Backend-heavy architectures powering intelligent applications  
+
+What interests me most is the engineering side of intelligence — how systems coordinate memory, retrieval, reasoning, APIs, and workflows in production environments.
+
+I enjoy building software that is not only functional, but capable of adapting, scaling, and making intelligent decisions.
+
+> ✨ *Building intelligent systems through engineering, orchestration, and thoughtful design.*
 
 ---
 

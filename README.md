@@ -48,48 +48,84 @@ I enjoy building software that is not only functional, but capable of adapting, 
 
 ---
 
-## 🛠 Tools & Tech Stack  
+## 🛠 Engineering Stack  
+
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+</p>
+
+---
+
+### 🧠 Core Computer Science
+<p>
+  <img src="https://img.shields.io/badge/DBMS-1E1E1E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Operating_Systems-2A2A2A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Computer_Networks-333333?style=flat-square"/>
+  <img src="https://img.shields.io/badge/System_Design-444444?style=flat-square"/>
+</p>
+
+---
+
+### ⚙️ Backend & APIs
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RESTful_APIs-02569B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSocket-222222?style=flat-square&logo=socketdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white"/>
+</p>
+
+---
 
 ### 🎨 Frontend
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
 </p>
 
-### ⚙️ Backend
+---
+
+### 🗄️ Databases & Storage
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express"/>
-  <img src="https://img.shields.io/badge/WebSockets-333333?style=for-the-badge&logo=socketdotio"/>
-  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-31648C?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
 </p>
 
-### 🗄️ Databases
+---
+
+### 🤖 AI & Machine Learning
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-0A0A0A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Neural_Networks-222222?style=flat-square"/>
+  <img src="https://img.shields.io/badge/CNN-333333?style=flat-square"/>
+  <img src="https://img.shields.io/badge/NLP-5E5EE6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Computer_Vision-444444?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MLOps-000000?style=flat-square"/>
 </p>
 
-### 🤖 AI / ML
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai"/>
-  <img src="https://img.shields.io/badge/NLP-5E5EE6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GenAI-7A00F5?style=for-the-badge"/>
-</p>
+---
 
-### 🧰 Tools
+### 🧠 LLM / AI Systems
 <p>
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud"/>
+  <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RAG-1B1B1B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/VectorDB-242424?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LLMOps-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AI_Orchestration-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MCP-1A1A1A?style=flat-square"/>
 </p>
 
 ---

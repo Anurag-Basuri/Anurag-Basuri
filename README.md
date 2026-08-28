@@ -66,6 +66,17 @@
 
 <br>
 
+<!-- ARCHITECTURE CONSTELLATION MAP -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anurag-Basuri/Anurag-Basuri/main/assets/constellation.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anurag-Basuri/Anurag-Basuri/main/assets/constellation.svg" />
+    <img alt="Engineering Architecture Constellation" src="https://raw.githubusercontent.com/Anurag-Basuri/Anurag-Basuri/main/assets/constellation.svg" width="100%" />
+  </picture>
+</p>
+
+<br>
+
 <!-- ABOUT: THE STACK TRACE -->
 <h2 align="center">The Stack Trace</h2>
 

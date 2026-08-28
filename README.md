@@ -201,27 +201,9 @@
 <br>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Anurag-Basuri&show_icons=true&theme=github_dark&hide_border=true&count_private=true&icon_color=00D4FF&title_color=00D4FF&text_color=E6EDF3&bg_color=0d1117" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Anurag-Basuri&show_icons=true&theme=default&hide_border=true&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Anurag-Basuri&show_icons=true&theme=github_dark&hide_border=true&count_private=true&icon_color=00D4FF&title_color=00D4FF&text_color=E6EDF3&bg_color=0d1117" height="170" alt="GitHub Stats" />
-  </picture>
-  &nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Anurag-Basuri&theme=github-dark-blue&hide_border=true&ring=00D4FF&fire=FF2D95&currStreakLabel=00D4FF&sideLabels=E6EDF3&background=0d1117" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Anurag-Basuri&theme=default&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag-Basuri&theme=github-dark-blue&hide_border=true&ring=00D4FF&fire=FF2D95&currStreakLabel=00D4FF&sideLabels=E6EDF3&background=0d1117" height="170" alt="GitHub Streak" />
-  </picture>
-</p>
-
-<br>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Anurag-Basuri&bg_color=0d1117&color=E6EDF3&line=00D4FF&point=A855F7&area=true&area_color=00D4FF&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Anurag-Basuri&theme=minimal&hide_border=true&area=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anurag-Basuri&bg_color=0d1117&color=E6EDF3&line=00D4FF&point=A855F7&area=true&area_color=00D4FF&hide_border=true" width="95%" alt="Activity Graph" />
-  </picture>
+  <img src="./assets/github-stats.svg" width="48%" alt="GitHub Metrics" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag-Basuri&theme=github-dark-blue&hide_border=true&ring=00D4FF&fire=FF2D95&currStreakLabel=00D4FF&sideLabels=E6EDF3&background=0d1117" width="48%" alt="GitHub Streak" />
 </p>
 
 <br>

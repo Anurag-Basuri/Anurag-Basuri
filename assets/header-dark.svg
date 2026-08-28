@@ -201,33 +201,33 @@
 
   <!-- Main name text with neon glow -->
   <g filter="url(#neonGlow)" class="neon-pulse">
-    <text x="600" y="145" text-anchor="middle" class="name-text" fill="url(#nameGradient)">
+    <text x="600" y="125" text-anchor="middle" class="name-text" fill="url(#nameGradient)">
       Anurag Basuri
     </text>
   </g>
   <!-- Crisp overlay text (no blur) -->
-  <text x="600" y="145" text-anchor="middle" class="name-text" fill="url(#nameGradient)">
+  <text x="600" y="125" text-anchor="middle" class="name-text" fill="url(#nameGradient)">
     Anurag Basuri
   </text>
 
   <!-- Subtitle -->
-  <text x="600" y="195" text-anchor="middle" class="subtitle-text">
-    Applied AI Systems  ·  Backend-Heavy Engineering
+  <text x="600" y="185" text-anchor="middle" class="subtitle-text">
+    Full-Stack Engineer (Backend Focused)  ·  AI Systems
   </text>
 
   <!-- Accent dots flanking the subtitle -->
-  <circle class="accent-dot neon-pulse" cx="370" cy="190" r="3" style="animation-delay: -1s;"/>
-  <circle class="accent-dot neon-pulse" cx="830" cy="190" r="3" style="animation-delay: -2s;"/>
+  <circle class="accent-dot neon-pulse" cx="310" cy="180" r="3" style="animation-delay: -1s;"/>
+  <circle class="accent-dot neon-pulse" cx="890" cy="180" r="3" style="animation-delay: -2s;"/>
 
   <!-- Status indicator -->
-  <g transform="translate(520, 240)">
+  <g transform="translate(488, 245)">
     <circle cx="0" cy="0" r="4" fill="#00D4FF" opacity="0.4">
       <animate attributeName="r" values="4;7;4" dur="2s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="0.4;0.1;0.4" dur="2s" repeatCount="indefinite"/>
     </circle>
     <circle cx="0" cy="0" r="4" fill="#00D4FF"/>
     <text x="14" y="5" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#8B949E" letter-spacing="1">
-      BUILDING IN PUBLIC
+      OPEN TO OPPORTUNITIES
     </text>
   </g>
 

@@ -1,10 +1,6 @@
 <!-- HERO BANNER -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anurag-Basuri/Anurag-Basuri/main/assets/header-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anurag-Basuri/Anurag-Basuri/main/assets/header-dark.svg" />
-    <img alt="Anurag Basuri — Full-Stack Engineer · AI Systems" src="https://raw.githubusercontent.com/Anurag-Basuri/Anurag-Basuri/main/assets/header-dark.svg" width="100%" />
-  </picture>
+  <img alt="Anurag Basuri — Full-Stack Engineer · AI Systems" src="./assets/header-dark.svg" width="100%" />
 </p>
 
 <br>
@@ -49,7 +45,9 @@
 <br>
 
 <!-- DIVIDER -->
-<img src="https://raw.githubusercontent.com/Anurag-Basuri/Anurag-Basuri/main/assets/divider.svg" width="100%" alt="" />
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="" />
+</p>
 
 <br>
 
@@ -57,22 +55,14 @@
 <h2 align="center">System Kernel &amp; Architecture</h2>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anurag-Basuri/Anurag-Basuri/main/assets/terminal.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anurag-Basuri/Anurag-Basuri/main/assets/terminal.svg" />
-    <img alt="System Kernel Specs" src="https://raw.githubusercontent.com/Anurag-Basuri/Anurag-Basuri/main/assets/terminal.svg" width="100%" />
-  </picture>
+  <img alt="System Kernel Specs" src="./assets/terminal.svg" width="100%" />
 </p>
 
 <br>
 
 <!-- ARCHITECTURE CONSTELLATION MAP -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anurag-Basuri/Anurag-Basuri/main/assets/constellation.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anurag-Basuri/Anurag-Basuri/main/assets/constellation.svg" />
-    <img alt="Engineering Architecture Constellation" src="https://raw.githubusercontent.com/Anurag-Basuri/Anurag-Basuri/main/assets/constellation.svg" width="100%" />
-  </picture>
+  <img alt="Engineering Architecture Constellation" src="./assets/constellation.svg" width="100%" />
 </p>
 
 <br>
@@ -102,7 +92,9 @@
 <br>
 
 <!-- DIVIDER -->
-<img src="https://raw.githubusercontent.com/Anurag-Basuri/Anurag-Basuri/main/assets/divider.svg" width="100%" alt="" />
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="" />
+</p>
 
 <br>
 
@@ -113,18 +105,20 @@
 
 <p align="center">
   <a href="https://anuragbasuri.vercel.app">
-    <img src="https://raw.githubusercontent.com/Anurag-Basuri/Anurag-Basuri/main/assets/card-portfolio.svg" width="48%" alt="Anurag.dev Portfolio" />
+    <img src="./assets/card-portfolio.svg" width="48%" alt="Anurag.dev Portfolio" />
   </a>
   &nbsp;
   <a href="https://anuragbasuri.vercel.app">
-    <img src="https://raw.githubusercontent.com/Anurag-Basuri/Anurag-Basuri/main/assets/card-agent.svg" width="48%" alt="Autonomous Agent" />
+    <img src="./assets/card-agent.svg" width="48%" alt="Autonomous Agent" />
   </a>
 </p>
 
 <br>
 
 <!-- DIVIDER -->
-<img src="https://raw.githubusercontent.com/Anurag-Basuri/Anurag-Basuri/main/assets/divider.svg" width="100%" alt="" />
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="" />
+</p>
 
 <br>
 
@@ -185,7 +179,9 @@
 <br>
 
 <!-- DIVIDER -->
-<img src="https://raw.githubusercontent.com/Anurag-Basuri/Anurag-Basuri/main/assets/divider.svg" width="100%" alt="" />
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="" />
+</p>
 
 <br>
 
@@ -247,7 +243,9 @@
 <br>
 
 <!-- DIVIDER -->
-<img src="https://raw.githubusercontent.com/Anurag-Basuri/Anurag-Basuri/main/assets/divider.svg" width="100%" alt="" />
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="" />
+</p>
 
 <br>
 

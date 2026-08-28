@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 530 280" width="530" height="280">
+  <defs>
+    <linearGradient id="aBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#A855F7;stop-opacity:0.9"/>
+      <stop offset="50%" style="stop-color:#FF2D95;stop-opacity:0.3"/>
+      <stop offset="100%" style="stop-color:#A855F7;stop-opacity:0.8"/>
+    </linearGradient>
+    <linearGradient id="aCardBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1c132b;stop-opacity:0.95"/>
+      <stop offset="100%" style="stop-color:#0d0917;stop-opacity:0.95"/>
+    </linearGradient>
+    <linearGradient id="aBtnGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FF2D95"/>
+      <stop offset="100%" style="stop-color:#A855F7"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .card-title { font-family: 'Segoe UI', system-ui, sans-serif; font-size: 20px; font-weight: 700; fill: #ffffff; }
+    .card-tag { font-family: 'Segoe UI', system-ui, sans-serif; font-size: 11px; font-weight: 600; fill: #FF2D95; }
+    .card-desc { font-family: 'Segoe UI', system-ui, sans-serif; font-size: 13px; fill: #8B949E; line-height: 1.5; }
+    .card-btn { font-family: 'Segoe UI', system-ui, sans-serif; font-size: 12px; font-weight: 700; fill: #ffffff; }
+    .tech-pill { font-family: 'Segoe UI', system-ui, sans-serif; font-size: 11px; fill: #E9D5FF; font-weight: 500; }
+    
+    .pulse-dot {
+      animation: pulse 2s infinite ease-in-out;
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 0.4; }
+      50% { opacity: 1; }
+    }
+  </style>
+
+  <!-- Outer Border & Background -->
+  <rect x="2" y="2" width="526" height="276" rx="14" fill="url(#aCardBg)" stroke="url(#aBorder)" stroke-width="1.5"/>
+
+  <!-- Top Bar: Icon + Title + Status -->
+  <g transform="translate(24, 30)">
+    <text class="card-title" x="0" y="0">🤖 Autonomous Agent</text>
+    
+    <!-- Status Badge -->
+    <g transform="translate(370, -14)">
+      <rect x="0" y="0" width="105" height="22" rx="11" fill="#FF2D95" fill-opacity="0.1" stroke="#FF2D95" stroke-opacity="0.3" stroke-width="1"/>
+      <circle cx="12" cy="11" r="3.5" fill="#FF2D95" class="pulse-dot"/>
+      <text class="card-tag" x="22" y="15">ACTIVE AGENT</text>
+    </g>
+  </g>
+
+  <!-- Highlight One-liner -->
+  <text x="24" y="66" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" font-weight="600" fill="#A855F7">
+    LangGraph State Machine with 6-Tier Cascade
+  </text>
+
+  <!-- Description Bullets -->
+  <g class="card-desc" font-size="12.5" transform="translate(24, 96)">
+    <text x="0" y="0">🧠 6-Layer LLM Cascade (GitHub Models → Groq → HF → Static)</text>
+    <text x="0" y="22">🛠️ 17 MCP Tools registry (GitHub, LeetCode, Search, DB Tools)</text>
+    <text x="0" y="44">🔒 AES-256-GCM Encrypted Long-Term Memory &amp; RAG VectorDB</text>
+  </g>
+
+  <!-- Tech Pills Row -->
+  <g transform="translate(24, 178)">
+    <rect x="0" y="0" width="85" height="24" rx="6" fill="#321b4d" stroke="#4c2875" stroke-width="0.8"/>
+    <text class="tech-pill" x="42" y="16" text-anchor="middle">LangGraph</text>
+
+    <rect x="93" y="0" width="60" height="24" rx="6" fill="#321b4d" stroke="#4c2875" stroke-width="0.8"/>
+    <text class="tech-pill" x="123" y="16" text-anchor="middle">Python</text>
+
+    <rect x="161" y="0" width="70" height="24" rx="6" fill="#321b4d" stroke="#4c2875" stroke-width="0.8"/>
+    <text class="tech-pill" x="196" y="16" text-anchor="middle">PGVector</text>
+
+    <rect x="239" y="0" width="68" height="24" rx="6" fill="#321b4d" stroke="#4c2875" stroke-width="0.8"/>
+    <text class="tech-pill" x="273" y="16" text-anchor="middle">FastAPI</text>
+
+    <rect x="315" y="0" width="78" height="24" rx="6" fill="#321b4d" stroke="#4c2875" stroke-width="0.8"/>
+    <text class="tech-pill" x="354" y="16" text-anchor="middle">MCP Tools</text>
+  </g>
+
+  <!-- CTA Button Area -->
+  <g transform="translate(24, 222)">
+    <rect x="0" y="0" width="150" height="32" rx="8" fill="url(#aBtnGrad)"/>
+    <text class="card-btn" x="75" y="20" text-anchor="middle">Talk to Agent ↗</text>
+
+    <rect x="162" y="0" width="110" height="32" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+    <text font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="600" fill="#E6EDF3" x="217" y="20" text-anchor="middle">Source ↗</text>
+  </g>
+</svg>

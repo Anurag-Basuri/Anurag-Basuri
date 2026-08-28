@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 530 280" width="530" height="280">
+  <defs>
+    <linearGradient id="pBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00D4FF;stop-opacity:0.9"/>
+      <stop offset="50%" style="stop-color:#7873F5;stop-opacity:0.3"/>
+      <stop offset="100%" style="stop-color:#00D4FF;stop-opacity:0.8"/>
+    </linearGradient>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#101726;stop-opacity:0.95"/>
+      <stop offset="100%" style="stop-color:#090d16;stop-opacity:0.95"/>
+    </linearGradient>
+    <linearGradient id="btnGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D4FF"/>
+      <stop offset="100%" style="stop-color:#0099FF"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .card-title { font-family: 'Segoe UI', system-ui, sans-serif; font-size: 20px; font-weight: 700; fill: #ffffff; }
+    .card-tag { font-family: 'Segoe UI', system-ui, sans-serif; font-size: 11px; font-weight: 600; fill: #00D4FF; }
+    .card-desc { font-family: 'Segoe UI', system-ui, sans-serif; font-size: 13px; fill: #8B949E; line-height: 1.5; }
+    .card-btn { font-family: 'Segoe UI', system-ui, sans-serif; font-size: 12px; font-weight: 700; fill: #0d1117; }
+    .tech-pill { font-family: 'Segoe UI', system-ui, sans-serif; font-size: 11px; fill: #C9D1D9; font-weight: 500; }
+    
+    .pulse-dot {
+      animation: pulse 2s infinite ease-in-out;
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 0.4; }
+      50% { opacity: 1; }
+    }
+  </style>
+
+  <!-- Outer Border & Background -->
+  <rect x="2" y="2" width="526" height="276" rx="14" fill="url(#cardBg)" stroke="url(#pBorder)" stroke-width="1.5"/>
+
+  <!-- Top Bar: Icon + Title + Status -->
+  <g transform="translate(24, 30)">
+    <text class="card-title" x="0" y="0">🌐 Anurag.dev</text>
+    
+    <!-- Status Badge -->
+    <g transform="translate(360, -14)">
+      <rect x="0" y="0" width="115" height="22" rx="11" fill="#00D4FF" fill-opacity="0.1" stroke="#00D4FF" stroke-opacity="0.3" stroke-width="1"/>
+      <circle cx="12" cy="11" r="3.5" fill="#00D4FF" class="pulse-dot"/>
+      <text class="card-tag" x="22" y="15">PRODUCTION</text>
+    </g>
+  </g>
+
+  <!-- Highlight One-liner -->
+  <text x="24" y="66" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" font-weight="600" fill="#00D4FF">
+    Decoupled Full-Stack Architecture &amp; Developer Platform
+  </text>
+
+  <!-- Description Bullets -->
+  <g class="card-desc" font-size="12.5" transform="translate(24, 96)">
+    <text x="0" y="0">⚡ Next.js 16 Client + FastAPI Backend (Decoupled Resilient Core)</text>
+    <text x="0" y="22">🛡️ Zero-Crash Boundary with auto circuit-breakers &amp; failovers</text>
+    <text x="0" y="44">📊 Structured observability (SYSTEM / LLM / TOOL / MEMORY)</text>
+  </g>
+
+  <!-- Tech Pills Row -->
+  <g transform="translate(24, 178)">
+    <rect x="0" y="0" width="70" height="24" rx="6" fill="#1f293d" stroke="#30363d" stroke-width="0.8"/>
+    <text class="tech-pill" x="35" y="16" text-anchor="middle">Next.js</text>
+
+    <rect x="78" y="0" width="68" height="24" rx="6" fill="#1f293d" stroke="#30363d" stroke-width="0.8"/>
+    <text class="tech-pill" x="112" y="16" text-anchor="middle">FastAPI</text>
+
+    <rect x="154" y="0" width="85" height="24" rx="6" fill="#1f293d" stroke="#30363d" stroke-width="0.8"/>
+    <text class="tech-pill" x="196" y="16" text-anchor="middle">PostgreSQL</text>
+
+    <rect x="247" y="0" width="58" height="24" rx="6" fill="#1f293d" stroke="#30363d" stroke-width="0.8"/>
+    <text class="tech-pill" x="276" y="16" text-anchor="middle">Redis</text>
+
+    <rect x="313" y="0" width="62" height="24" rx="6" fill="#1f293d" stroke="#30363d" stroke-width="0.8"/>
+    <text class="tech-pill" x="344" y="16" text-anchor="middle">Docker</text>
+  </g>
+
+  <!-- CTA Button Area -->
+  <g transform="translate(24, 222)">
+    <rect x="0" y="0" width="130" height="32" rx="8" fill="url(#btnGrad)"/>
+    <text class="card-btn" x="65" y="20" text-anchor="middle">Visit Live ↗</text>
+
+    <rect x="142" y="0" width="110" height="32" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+    <text font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="600" fill="#E6EDF3" x="197" y="20" text-anchor="middle">Source ↗</text>
+  </g>
+</svg>

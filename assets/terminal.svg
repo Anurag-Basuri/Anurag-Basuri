@@ -1,0 +1,158 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 370" width="1100" height="370">
+  <defs>
+    <!-- Window glow filter -->
+    <filter id="windowGlow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <!-- Border gradient -->
+    <linearGradient id="terminalBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00D4FF;stop-opacity:0.8" />
+      <stop offset="50%" style="stop-color:#A855F7;stop-opacity:0.4" />
+      <stop offset="100%" style="stop-color:#FF2D95;stop-opacity:0.8" />
+    </linearGradient>
+
+    <!-- Header bar gradient -->
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#161b22" />
+      <stop offset="100%" style="stop-color:#0d1117" />
+    </linearGradient>
+
+    <!-- Subtle scanline overlay -->
+    <pattern id="scanlines" width="100" height="4" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="100" y2="0" stroke="#ffffff" stroke-opacity="0.015" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <style>
+    @media (prefers-color-scheme: dark) {
+      .term-bg { fill: #090d13; }
+      .text-cmd { fill: #00D4FF; }
+      .text-key { fill: #A855F7; }
+      .text-val { fill: #E6EDF3; }
+      .text-hl { fill: #FF2D95; }
+      .text-green { fill: #3FB950; }
+      .text-muted { fill: #8B949E; }
+    }
+    @media (prefers-color-scheme: light) {
+      .term-bg { fill: #0d1117; }
+      .text-cmd { fill: #00D4FF; }
+      .text-key { fill: #A855F7; }
+      .text-val { fill: #E6EDF3; }
+      .text-hl { fill: #FF2D95; }
+      .text-green { fill: #3FB950; }
+      .text-muted { fill: #8B949E; }
+    }
+
+    .term-font {
+      font-family: 'Fira Code', 'JetBrains Mono', 'SF Mono', Consolas, monospace;
+    }
+
+    .cursor {
+      animation: blink 1s step-end infinite;
+    }
+
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+
+    .pulse-glow {
+      animation: pulseBorder 4s ease-in-out infinite alternate;
+    }
+
+    @keyframes pulseBorder {
+      0% { opacity: 0.6; }
+      100% { opacity: 1; }
+    }
+  </style>
+
+  <!-- Terminal Window Background with Glowing Border -->
+  <rect x="15" y="15" width="1070" height="340" rx="12" fill="none" stroke="url(#terminalBorder)" stroke-width="1.5" class="pulse-glow" />
+  <rect x="16" y="16" width="1068" height="338" rx="11" class="term-bg" />
+  <rect x="16" y="16" width="1068" height="338" rx="11" fill="url(#scanlines)" />
+
+  <!-- Window Header Bar -->
+  <path d="M 16,27 Q 16,16 27,16 L 1073,16 Q 1084,16 1084,27 L 1084,48 L 16,48 Z" fill="url(#headerGrad)" />
+  <line x1="16" y1="48" x2="1084" y2="48" stroke="#30363d" stroke-width="1" />
+
+  <!-- macOS Window Controls (Red, Yellow, Green Buttons) -->
+  <circle cx="42" cy="32" r="6" fill="#FF5F56" stroke="#E0443E" stroke-width="0.5" />
+  <circle cx="62" cy="32" r="6" fill="#FFBD2E" stroke="#DEA123" stroke-width="0.5" />
+  <circle cx="82" cy="32" r="6" fill="#27C93F" stroke="#1AAB29" stroke-width="0.5" />
+
+  <!-- Window Title -->
+  <text x="550" y="36" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" fill="#8B949E" font-weight="500">
+    anurag@systems-core: ~ (zsh)
+  </text>
+
+  <!-- Terminal Content -->
+  <g class="term-font" font-size="13">
+    <!-- Command Line -->
+    <text x="45" y="82">
+      <tspan class="text-muted">➜ </tspan>
+      <tspan fill="#A855F7" font-weight="600">~ </tspan>
+      <tspan class="text-cmd" font-weight="600">$ sysinfo --architect --status</tspan>
+    </text>
+
+    <!-- Spec 1: Role -->
+    <text x="45" y="120">
+      <tspan class="text-key" font-weight="600">[+] ROLE          :</tspan>
+      <tspan class="text-val"> Full-Stack Engineer </tspan>
+      <tspan class="text-muted">(</tspan><tspan class="text-hl">Backend-Focused</tspan><tspan class="text-muted">) · Applied AI Systems</tspan>
+    </text>
+
+    <!-- Spec 2: Architecture -->
+    <text x="45" y="152">
+      <tspan class="text-key" font-weight="600">[+] ARCHITECTURE  :</tspan>
+      <tspan class="text-val"> Tri-Tier Physical Split </tspan>
+      <tspan class="text-muted">[</tspan><tspan fill="#00D4FF">/api/public</tspan><tspan class="text-muted"> · </tspan><tspan fill="#A855F7">/api/agent</tspan><tspan class="text-muted"> · </tspan><tspan fill="#FF2D95">/api/admin</tspan><tspan class="text-muted">]</tspan>
+    </text>
+
+    <!-- Spec 3: AI Engine -->
+    <text x="45" y="184">
+      <tspan class="text-key" font-weight="600">[+] AI CORE       :</tspan>
+      <tspan class="text-val"> LangGraph State Machine </tspan>
+      <tspan class="text-muted">·</tspan>
+      <tspan class="text-val"> 6-Layer LLM Fallback Cascade </tspan>
+      <tspan class="text-muted">·</tspan>
+      <tspan class="text-val"> PGVector RAG</tspan>
+    </text>
+
+    <!-- Spec 4: Toolbelt -->
+    <text x="45" y="216">
+      <tspan class="text-key" font-weight="600">[+] TOOLBELT      :</tspan>
+      <tspan class="text-val"> 17 Model Context Protocol (MCP) Servers </tspan>
+      <tspan class="text-muted">·</tspan>
+      <tspan class="text-val"> Real-time SSE Streaming</tspan>
+    </text>
+
+    <!-- Spec 5: Resilience -->
+    <text x="45" y="248">
+      <tspan class="text-key" font-weight="600">[+] RESILIENCE    :</tspan>
+      <tspan class="text-val"> Auto-Recovering Circuit Breakers </tspan>
+      <tspan class="text-muted">·</tspan>
+      <tspan class="text-val"> TTLCache </tspan>
+      <tspan class="text-muted">·</tspan>
+      <tspan class="text-val"> AES-256-GCM Encrypted Memory</tspan>
+    </text>
+
+    <!-- Spec 6: Status -->
+    <text x="45" y="280">
+      <tspan class="text-key" font-weight="600">[+] NODE STATUS   :</tspan>
+      <tspan class="text-green" font-weight="600"> ● ALL SYSTEMS NOMINAL</tspan>
+      <tspan class="text-muted"> — Ready to deploy &amp; scale</tspan>
+    </text>
+
+    <!-- Active Prompt with Blinking Cursor -->
+    <text x="45" y="322">
+      <tspan class="text-muted">➜ </tspan>
+      <tspan fill="#A855F7" font-weight="600">~ </tspan>
+      <tspan class="cursor" fill="#00D4FF" font-weight="bold">█</tspan>
+    </text>
+  </g>
+</svg>

@@ -1,19 +1,22 @@
 <!-- HERO BANNER -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anurag-Basuri/Anurag-Basuri/main/assets/header-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anurag-Basuri/Anurag-Basuri/main/assets/header-dark.svg" />
-  <img alt="Anurag Basuri — Full-Stack Engineer · AI Systems" src="https://raw.githubusercontent.com/Anurag-Basuri/Anurag-Basuri/main/assets/header-dark.svg" width="100%" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anurag-Basuri/Anurag-Basuri/main/assets/header-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anurag-Basuri/Anurag-Basuri/main/assets/header-dark.svg" />
+    <img alt="Anurag Basuri — Full-Stack Engineer · AI Systems" src="https://raw.githubusercontent.com/Anurag-Basuri/Anurag-Basuri/main/assets/header-dark.svg" width="100%" />
+  </picture>
+</p>
 
 <br>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1200&color=00D4FF&center=true&vCenter=true&repeat=true&width=700&height=28&lines=%24+whoami+%E2%86%92+Full-Stack+Engineer+%7C+AI+Systems;%24+cat+projects+%E2%86%92+anurag.dev+%2B+autonomous+LangGraph+agent;%24+stack+--core+%E2%86%92+FastAPI+%7C+Next.js+%7C+LangGraph+%7C+RAG+%7C+MCP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3500&pause=1200&color=00D4FF&center=true&vCenter=true&repeat=true&width=700&height=32&lines=%24+whoami+%E2%86%92+Full-Stack+Engineer+%7C+AI+Systems;%24+cat+projects+%E2%86%92+anurag.dev+%2B+autonomous+LangGraph+agent;%24+stack+--core+%E2%86%92+FastAPI+%7C+Next.js+%7C+LangGraph+%7C+RAG+%7C+MCP" alt="Typing SVG" />
 </p>
 
 <br>
 
+<!-- SOCIAL & QUICK LINKS -->
 <p align="center">
   <a href="https://anuragbasuri.vercel.app"><img src="https://img.shields.io/badge/anurag.dev-00D4FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/></a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/anuragbasuri"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
@@ -23,8 +26,43 @@
 
 <br>
 
+<!-- 🤖 ONE-CLICK INTERACTIVE AGENT QUERIES -->
+<p align="center">
+  <sub>💡 <b>Ask My Autonomous Agent (Click to prompt directly):</b></sub>
+</p>
+
+<p align="center">
+  <a href="https://anuragbasuri.vercel.app?prompt=What+is+Anurag%27s+backend+and+distributed+systems+architecture+experience%3F">
+    <img src="https://img.shields.io/badge/💬_Ask_Agent-Backend_Architecture%3F-00D4FF?style=flat-square&logo=fastapi&logoColor=white" alt="Ask Backend"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://anuragbasuri.vercel.app?prompt=Explain+Anurag%27s+LangGraph+AI+agent+and+6-layer+LLM+cascade">
+    <img src="https://img.shields.io/badge/💬_Ask_Agent-AI_Agent_Design%3F-A855F7?style=flat-square&logo=langchain&logoColor=white" alt="Ask AI Agent"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://anuragbasuri.vercel.app?prompt=What+are+Anurag%27s+top+LeetCode+and+algorithm+problem-solving+stats%3F">
+    <img src="https://img.shields.io/badge/💬_Ask_Agent-LeetCode_Stats%3F-FF2D95?style=flat-square&logo=leetcode&logoColor=white" alt="Ask LeetCode"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://anuragbasuri.vercel.app?prompt=Why+should+we+hire+Anurag+Basuri+as+a+Software+Engineer%3F">
+    <img src="https://img.shields.io/badge/💬_Ask_Agent-Why_Hire_Anurag%3F-3FB950?style=flat-square&logo=target&logoColor=white" alt="Why Hire"/>
+  </a>
+</p>
+
+<br>
+
 <!-- DIVIDER -->
 <img src="https://raw.githubusercontent.com/Anurag-Basuri/Anurag-Basuri/main/assets/divider.svg" width="100%" alt="" />
+
+<br>
+
+<!-- SYSTEM SPECIFICATIONS / TERMINAL -->
+<h2 align="center">System Kernel &amp; Architecture</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anurag-Basuri/Anurag-Basuri/main/assets/terminal.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anurag-Basuri/Anurag-Basuri/main/assets/terminal.svg" />
+    <img alt="System Kernel Specs" src="https://raw.githubusercontent.com/Anurag-Basuri/Anurag-Basuri/main/assets/terminal.svg" width="100%" />
+  </picture>
+</p>
 
 <br>
 
@@ -41,7 +79,7 @@
   ┌─ v1.0 ─── CS undergrad. First Hello World.
   ├─ v2.0 ─── Full-stack shipped: React, Next.js, Node.js, Express
   ├─ v3.0 ─── Freelanced. Architected a platform serving 2000+ users.
-  └─ v4.0 ─── Applied AI: LangGraph agents, RAG pipelines, MCP tooling — all in production.
+  └─ v4.0 ─── Applied AI: LangGraph agents, RAG pipelines, MCP tooling — in production.
 ```
 
 <br>
@@ -57,70 +95,20 @@
 
 <br>
 
-<!-- FEATURED PROJECTS -->
+<!-- FEATURED PROJECTS (GLOW CARDS) -->
 <h2 align="center">What I've Built</h2>
 
 <br>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🌐 Anurag.dev</h3>
-
 <p align="center">
-  <b>Production-grade developer portfolio.</b> Fully decoupled Next.js frontend, FastAPI backend, PostgreSQL, and AI inference layer — each fails and recovers independently.
-</p>
-
-<p align="center">
-  Circuit breakers, zero-crash backend, structured observability, and real-time SSE streaming.
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,fastapi,postgres,redis,vercel&theme=dark" height="36" alt="Tech stack" />
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://anuragbasuri.vercel.app"><img src="https://img.shields.io/badge/Visit_Live-00D4FF?style=flat-square&logo=vercel&logoColor=black" alt="Live"/></a>&nbsp;&nbsp;
-  <a href="https://github.com/Anurag-Basuri/personal_portfolio"><img src="https://img.shields.io/badge/Source-8B949E?style=flat-square&logo=github&logoColor=white" alt="Source"/></a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">🤖 The Autonomous Agent</h3>
-
-<p align="center">
-  <b>LangGraph-powered AI agent</b> embedded in the portfolio. 6-layer LLM fallback cascade, 17 MCP tool servers, AES-256-GCM encrypted memory.
-</p>
-
-<p align="center">
-  It reasons, picks tools, executes them, reads results, and responds — autonomously. Not a chatbot. Not a scripted FAQ.
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker&theme=dark" height="36" alt="Tech stack" />
+  <a href="https://anuragbasuri.vercel.app">
+    <img src="https://raw.githubusercontent.com/Anurag-Basuri/Anurag-Basuri/main/assets/card-portfolio.svg" width="48%" alt="Anurag.dev Portfolio" />
+  </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/LangGraph-1a1a2e?style=flat-square" height="28" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/MCP-1a1a2e?style=flat-square" height="28" alt="MCP" />
+  <a href="https://anuragbasuri.vercel.app">
+    <img src="https://raw.githubusercontent.com/Anurag-Basuri/Anurag-Basuri/main/assets/card-agent.svg" width="48%" alt="Autonomous Agent" />
+  </a>
 </p>
-
-<br>
-
-<p align="center">
-  <a href="https://anuragbasuri.vercel.app"><img src="https://img.shields.io/badge/Talk_to_Agent-FF2D95?style=flat-square&logo=openai&logoColor=white" alt="Agent"/></a>&nbsp;&nbsp;
-  <a href="https://github.com/Anurag-Basuri/personal_agent"><img src="https://img.shields.io/badge/Source-8B949E?style=flat-square&logo=github&logoColor=white" alt="Source"/></a>
-</p>
-
-</td>
-</tr>
-</table>
 
 <br>
 
@@ -135,7 +123,7 @@
 <br>
 
 <p align="center">
-  <b>Languages & Frameworks</b>
+  <b>Languages &amp; Core Frameworks</b>
 </p>
 
 <p align="center">
@@ -145,7 +133,7 @@
 <br>
 
 <p align="center">
-  <b>AI & Agent Systems</b>
+  <b>AI &amp; Agent Systems</b>
 </p>
 
 <p align="center">
@@ -159,7 +147,7 @@
 <br>
 
 <p align="center">
-  <b>Data & Infrastructure</b>
+  <b>Data &amp; Infrastructure</b>
 </p>
 
 <p align="center">
@@ -190,8 +178,8 @@
 
 <br>
 
-<!-- STATS -->
-<h2 align="center">Numbers</h2>
+<!-- STATS & ACTIVITY -->
+<h2 align="center">Numbers &amp; Activity</h2>
 
 <br>
 
@@ -236,7 +224,7 @@
 
 <br>
 
-<!-- SNAKE ANIMATION -->
+<!-- SNAKE CONTRIBUTION ANIMATION -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Anurag-Basuri/Anurag-Basuri/blob/output/github-contribution-grid-snake-dark.svg" />
@@ -244,44 +232,6 @@
     <img alt="Contribution Snake" src="https://github.com/Anurag-Basuri/Anurag-Basuri/blob/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </p>
-
-<details>
-<summary><b>⚙️ Snake not showing?</b> — one-time GitHub Action setup</summary>
-
-<br>
-
-Add `.github/workflows/snake.yml` to your `Anurag-Basuri/Anurag-Basuri` repo:
-
-```yaml
-name: Generate Snake Animation
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches: [ main ]
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Anurag-Basuri
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Run it once via **Actions → Run workflow**.
-
-</details>
 
 <br>
 
@@ -292,7 +242,7 @@ Run it once via **Actions → Run workflow**.
 
 <!-- EDUCATION -->
 <p align="center">
-  🎓 <b>B.Tech, Computer Science & Engineering</b> <i>(2023 – 2027, CGPA 8.11)</i> · Deep Learning Certified <i>(IIT Ropar / NPTEL)</i>
+  🎓 <b>B.Tech, Computer Science &amp; Engineering</b> <i>(2023 – 2027, CGPA 8.11)</i> · Deep Learning Certified <i>(IIT Ropar / NPTEL)</i>
 </p>
 
 <br>
@@ -309,4 +259,4 @@ Run it once via **Actions → Run workflow**.
 
 <br>
 
-<p align="center"><i>Or just visit anurag.dev and let the agent answer for me — it usually does it better.</i></p>
+<p align="center"><i>Or just click any "Ask Agent" badge above and let the AI answer for me — it usually does it better.</i></p>

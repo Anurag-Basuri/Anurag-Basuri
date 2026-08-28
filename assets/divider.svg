@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 12" width="1200" height="12">
+  <defs>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D4FF;stop-opacity:0"/>
+      <stop offset="15%" style="stop-color:#00D4FF;stop-opacity:0.3"/>
+      <stop offset="50%" style="stop-color:#A855F7;stop-opacity:0.4"/>
+      <stop offset="85%" style="stop-color:#FF2D95;stop-opacity:0.3"/>
+      <stop offset="100%" style="stop-color:#FF2D95;stop-opacity:0"/>
+    </linearGradient>
+
+    <radialGradient id="scanDot" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#00D4FF;stop-opacity:1"/>
+      <stop offset="40%" style="stop-color:#00D4FF;stop-opacity:0.6"/>
+      <stop offset="100%" style="stop-color:#00D4FF;stop-opacity:0"/>
+    </radialGradient>
+
+    <filter id="dotGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    @media (prefers-color-scheme: light) {
+      .div-line { opacity: 0.5; }
+    }
+  </style>
+
+  <!-- Static gradient line -->
+  <rect class="div-line" x="100" y="5" width="1000" height="1" fill="url(#lineGrad)" rx="0.5"/>
+
+  <!-- Scanning neon dot -->
+  <g filter="url(#dotGlow)">
+    <circle cx="0" cy="6" r="3" fill="url(#scanDot)">
+      <animate attributeName="cx" values="80;1120;80" dur="5s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"/>
+    </circle>
+  </g>
+
+  <!-- Trail effect -->
+  <rect x="0" y="5" width="60" height="1.5" fill="#00D4FF" opacity="0.3" rx="0.75">
+    <animate attributeName="x" values="60;1100;60" dur="5s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"/>
+    <animate attributeName="opacity" values="0;0.3;0.3;0" dur="5s" repeatCount="indefinite"/>
+  </rect>
+</svg>

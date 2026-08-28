@@ -103,7 +103,8 @@
     <text x="45" y="120">
       <tspan class="text-key" font-weight="600">[+] ROLE          :</tspan>
       <tspan class="text-val"> Full-Stack Engineer </tspan>
-      <tspan class="text-muted">(</tspan><tspan class="text-hl">Backend-Focused</tspan><tspan class="text-muted">) · Applied AI Systems</tspan>
+      <tspan class="text-muted">·</tspan>
+      <tspan class="text-hl"> Applied AI Systems</tspan>
     </text>
 
     <!-- Spec 2: Architecture -->

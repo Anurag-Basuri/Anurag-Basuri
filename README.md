@@ -210,30 +210,53 @@
 
 <br>
 
-<!-- SNAKE CONTRIBUTION ANIMATION -->
+<!-- 🎵 SPOTIFY NOW PLAYING -->
+<h2 align="center">Now Playing</h2>
+
+<br>
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Anurag-Basuri/Anurag-Basuri/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Anurag-Basuri/Anurag-Basuri/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Snake" src="https://github.com/Anurag-Basuri/Anurag-Basuri/blob/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
+  <a href="https://open.spotify.com/user/31b3dmw5x5kczlxylpjbcxwj3cua">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b3dmw5x5kczlxylpjbcxwj3cua&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=00D4FF&bar_color_cover=true" alt="Spotify Now Playing" width="400" />
+  </a>
 </p>
 
 <br>
 
-<!-- 3D CONTRIBUTION GRAPH -->
+<!-- 💬 RANDOM DEV QUOTE -->
 <p align="center">
-  <img src="https://github.com/Anurag-Basuri/Anurag-Basuri/blob/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contributions" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" width="600" />
 </p>
 
 <br>
 
-<!-- GITHUB ACTIVITY GRAPH -->
+<!-- DIVIDER -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anurag-Basuri&bg_color=0d1117&color=00D4FF&line=A855F7&point=FF2D95&area_color=00D4FF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Activity Graph" />
+  <img src="./assets/divider.svg" width="100%" alt="" />
 </p>
 
 <br>
+
+<!-- 🎲 BEYOND CODE -->
+<h2 align="center">Beyond Code</h2>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center" width="200">🎧<br><b>Music</b><br><sub>Lo-fi, ambient, and deep focus playlists — code flows better with the right soundtrack.</sub></td>
+    <td align="center" width="200">♟️<br><b>Chess</b><br><sub>Tactical thinker on and off the board. Strategy games are just distributed systems in disguise.</sub></td>
+    <td align="center" width="200">📚<br><b>Reading</b><br><sub>System Design, DDIA, and anything on fault-tolerant distributed architectures.</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="200">🧩<br><b>Problem Solving</b><br><sub>550+ LeetCode problems solved. I find algorithmic puzzles genuinely fun.</sub></td>
+    <td align="center" width="200">🌍<br><b>Open Source</b><br><sub>Believe in building in public. Every project here is MIT licensed.</sub></td>
+    <td align="center" width="200">🔭<br><b>Currently</b><br><sub>Building production-grade AI agents with LangGraph, MCP tools, and multi-transport delivery.</sub></td>
+  </tr>
+</table>
+
+<br>
+
 
 <!-- DIVIDER -->
 <p align="center">

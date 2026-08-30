@@ -1,0 +1,146 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 240" width="1100" height="240">
+  <defs>
+    <!-- Glow Filter -->
+    <filter id="diagGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Gradients -->
+    <linearGradient id="diagBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#A855F7;stop-opacity:0.9"/>
+      <stop offset="50%" style="stop-color:#FF2D95;stop-opacity:0.4"/>
+      <stop offset="100%" style="stop-color:#00D4FF;stop-opacity:0.9"/>
+    </linearGradient>
+
+    <linearGradient id="diagBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#130b24;stop-opacity:0.98"/>
+      <stop offset="100%" style="stop-color:#090614;stop-opacity:0.98"/>
+    </linearGradient>
+
+    <linearGradient id="choiceGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#20123a"/>
+      <stop offset="100%" style="stop-color:#140c24"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .font-diag-mono { font-family: 'Fira Code', 'JetBrains Mono', Consolas, monospace; }
+    .font-diag-sans { font-family: 'Segoe UI', system-ui, sans-serif; }
+
+    .eye-blink {
+      animation: blinkEye 4s infinite;
+      transform-origin: center;
+    }
+    @keyframes blinkEye {
+      0%, 90%, 100% { transform: scaleY(1); }
+      95% { transform: scaleY(0.1); }
+    }
+
+    .pulse-avatar {
+      animation: pulseCore 3s ease-in-out infinite alternate;
+    }
+    @keyframes pulseCore {
+      0% { transform: scale(0.96); opacity: 0.8; }
+      100% { transform: scale(1.04); opacity: 1; }
+    }
+
+    .cursor-blink {
+      animation: cBlink 0.8s step-end infinite;
+    }
+    @keyframes cBlink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+  </style>
+
+  <!-- Frame Background & Gradient Border -->
+  <rect x="2" y="2" width="1096" height="236" rx="14" fill="url(#diagBg)" stroke="url(#diagBorder)" stroke-width="1.5"/>
+
+  <!-- AI Avatar Orb (Left) -->
+  <g transform="translate(70, 75)">
+    <!-- Outer Glow Halo -->
+    <circle cx="0" cy="0" r="42" fill="#A855F7" fill-opacity="0.15" class="pulse-avatar"/>
+    <circle cx="0" cy="0" r="32" fill="#1b1033" stroke="#A855F7" stroke-width="2" filter="url(#diagGlow)"/>
+    <circle cx="0" cy="0" r="32" fill="#A855F7" fill-opacity="0.1"/>
+
+    <!-- Avatar Robotic Face Expression ( ◕ ‿ ◕ ) -->
+    <g class="eye-blink">
+      <!-- Left Eye -->
+      <circle cx="-10" cy="-4" r="3.5" fill="#00D4FF"/>
+      <circle cx="-9" cy="-5" r="1" fill="#FFFFFF"/>
+      <!-- Right Eye -->
+      <circle cx="10" cy="-4" r="3.5" fill="#00D4FF"/>
+      <circle cx="11" cy="-5" r="1" fill="#FFFFFF"/>
+    </g>
+    <!-- Smile Arc -->
+    <path d="M -8 7 Q 0 13 8 7" fill="none" stroke="#FF2D95" stroke-width="2" stroke-linecap="round"/>
+
+    <!-- Avatar Tag -->
+    <text class="font-diag-mono" font-size="10" font-weight="700" fill="#E9D5FF" x="0" y="48" text-anchor="middle">
+      AGENT_V4.2
+    </text>
+  </g>
+
+  <!-- Dialogue Speech Bubble (Right) -->
+  <g transform="translate(140, 26)">
+    <!-- Dialogue Header -->
+    <text class="font-diag-mono" font-size="12" font-weight="700" fill="#A855F7">
+      💬 <tspan fill="#00D4FF">Anurag's Autonomous AI Proxy</tspan>
+      <tspan fill="#8B949E"> [LangGraph • 17 MCP Tools • Online]</tspan>
+    </text>
+
+    <!-- Dialogue Text -->
+    <g class="font-diag-sans" font-size="13" fill="#E6EDF3" transform="translate(0, 24)">
+      <text x="0" y="0">
+        "Greetings traveler! I am Anurag's autonomous digital proxy. I reason, pick tools, inspect live GitHub
+      </text>
+      <text x="0" y="20">
+        repositories, and explain system architecture in real-time. Pick a prompt below to launch my console!"
+      </text>
+    </g>
+  </g>
+
+  <!-- Dialogue Choice Options (Prompt Pills) -->
+  <g transform="translate(140, 115)">
+    <!-- Choice 1: Backend -->
+    <g transform="translate(0, 0)">
+      <rect x="0" y="0" width="440" height="38" rx="8" fill="url(#choiceGrad)" stroke="#00D4FF" stroke-width="1" stroke-opacity="0.6"/>
+      <text class="font-diag-mono" font-size="11" font-weight="700" fill="#00D4FF" x="14" y="24">
+        ▶ [1] "What is Anurag's Backend Architecture experience?"
+      </text>
+    </g>
+
+    <!-- Choice 2: AI Agent -->
+    <g transform="translate(460, 0)">
+      <rect x="0" y="0" width="455" height="38" rx="8" fill="url(#choiceGrad)" stroke="#A855F7" stroke-width="1" stroke-opacity="0.6"/>
+      <text class="font-diag-mono" font-size="11" font-weight="700" fill="#A855F7" x="14" y="24">
+        ▶ [2] "Explain the LangGraph 6-layer LLM cascade"
+      </text>
+    </g>
+
+    <!-- Choice 3: LeetCode -->
+    <g transform="translate(0, 48)">
+      <rect x="0" y="0" width="440" height="38" rx="8" fill="url(#choiceGrad)" stroke="#FF2D95" stroke-width="1" stroke-opacity="0.6"/>
+      <text class="font-diag-mono" font-size="11" font-weight="700" fill="#FF2D95" x="14" y="24">
+        ▶ [3] "What are Anurag's top LeetCode &amp; Algo achievements?"
+      </text>
+    </g>
+
+    <!-- Choice 4: Why Hire -->
+    <g transform="translate(460, 48)">
+      <rect x="0" y="0" width="455" height="38" rx="8" fill="url(#choiceGrad)" stroke="#3FB950" stroke-width="1" stroke-opacity="0.6"/>
+      <text class="font-diag-mono" font-size="11" font-weight="700" fill="#3FB950" x="14" y="24">
+        ▶ [4] "Why should we hire Anurag for our engineering team?"
+      </text>
+    </g>
+  </g>
+
+  <!-- Bottom Interactive Helper -->
+  <g transform="translate(140, 222)">
+    <text class="font-diag-mono" font-size="10" fill="#8B949E">
+      ⚡ <tspan fill="#00D4FF">CLICK ANY QUERY ABOVE OR BADGES TO LAUNCH LIVE AGENT</tspan>
+      <tspan class="cursor-blink" fill="#00D4FF">_</tspan>
+    </text>
+  </g>
+</svg>

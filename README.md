@@ -23,9 +23,11 @@
 
 <br>
 
-<!-- 🤖 ONE-CLICK INTERACTIVE AGENT QUERIES -->
+<!-- 🤖 INTERACTIVE AI AGENT DIALOGUE BOX -->
 <p align="center">
-  <sub>💡 <b>Ask My Autonomous Agent (Click to prompt directly on Agent Platform):</b></sub>
+  <a href="https://anuragbasuri.vercel.app/chat">
+    <img alt="Interactive AI Agent Dialogue" src="./assets/agent-dialogue.svg" width="100%" />
+  </a>
 </p>
 
 <p align="center">
@@ -99,18 +101,34 @@
 
 <br>
 
+<!-- 👾 RETRO ARCADE CYBER DECK & RPG ATTRIBUTES -->
+<h2 align="center">Character Attributes &amp; Inventory</h2>
+
+<p align="center">
+  <img alt="Retro Arcade Character HUD" src="./assets/arcade-hud.svg" width="100%" />
+</p>
+
+<br>
+
+<!-- DIVIDER -->
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="" />
+</p>
+
+<br>
+
 <!-- FEATURED PROJECTS (GLOW CARDS) -->
 <h2 align="center">What I've Built</h2>
 
 <br>
 
 <p align="center">
-  <a href="https://anuragbasuri.vercel.app">
+  <a href="https://anuragbasuri.vercel.app/portfolio">
     <img src="./assets/card-portfolio.svg" width="48%" alt="Anurag.dev Portfolio" />
   </a>
   &nbsp;
-  <a href="https://anuragbasuri.vercel.app">
-    <img src="./assets/card-agent.svg" width="48%" alt="Autonomous Agent" />
+  <a href="https://anuragbasuri.vercel.app/chat">
+    <img src="./assets/card-agent.svg" width="48%" alt="Autonomous Agent Console" />
   </a>
 </p>
 
@@ -239,11 +257,14 @@
 
 <br>
 
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00D4FF,50:A855F7,100:FF2D95&section=footer&animation=fadeIn" width="100%" alt="" />
+<!-- CYBER TERMINAL DOCK FOOTER -->
+<p align="center">
+  <img alt="Cyber Terminal Dock Footer" src="./assets/footer.svg" width="100%" />
+</p>
 
 <p align="center">
-  <a href="https://anuragbasuri.vercel.app"><b>Portfolio</b></a> •
+  <a href="https://anuragbasuri.vercel.app/portfolio"><b>Portfolio</b></a> •
+  <a href="https://anuragbasuri.vercel.app/chat"><b>Agent Console</b></a> •
   <a href="https://linkedin.com/in/anuragbasuri"><b>LinkedIn</b></a> •
   <a href="https://github.com/Anurag-Basuri"><b>GitHub</b></a> •
   <a href="mailto:anuragbasuri@gmail.com"><b>Email</b></a>
@@ -251,4 +272,4 @@
 
 <br>
 
-<p align="center"><i>Or just click any "Ask Agent" badge above and let the AI answer for me — it usually does it better.</i></p>
+<p align="center"><i>Or just prompt the AI agent above — it represents my background in real-time.</i></p>

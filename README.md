@@ -14,8 +14,9 @@
 
 <!-- SOCIAL & QUICK LINKS -->
 <p align="center">
-  <a href="https://anuragbasuri.vercel.app/chat"><img src="https://img.shields.io/badge/Agent_Console-00D4FF?style=for-the-badge&logo=openai&logoColor=black" alt="AI Agent"/></a>&nbsp;&nbsp;
+  <a href="https://cortex-anurag.vercel.app/chat"><img src="https://img.shields.io/badge/Agent_Console-00D4FF?style=for-the-badge&logo=openai&logoColor=black" alt="AI Agent"/></a>&nbsp;&nbsp;
   <a href="https://anuragbasuri.vercel.app/portfolio"><img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>&nbsp;&nbsp;
+  <a href="https://anuragbasuri.vercel.app/resume"><img src="https://img.shields.io/badge/Resume-3FB950?style=for-the-badge&logo=resumemaker&logoColor=white" alt="Resume"/></a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/anuragbasuri"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
   <a href="mailto:anuragbasuri@gmail.com"><img src="https://img.shields.io/badge/Email-FF2D95?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=Anurag-Basuri&label=Visitors&color=7873F5&style=for-the-badge" alt="Profile views" />
@@ -23,24 +24,22 @@
 
 <br>
 
-<!-- 🤖 INTERACTIVE AI AGENT DIALOGUE BOX -->
+<!-- 🤖 ONE-CLICK INTERACTIVE AGENT QUERIES -->
 <p align="center">
-  <a href="https://anuragbasuri.vercel.app/chat">
-    <img alt="Interactive AI Agent Dialogue" src="./assets/agent-dialogue.svg" width="100%" />
-  </a>
+  <sub>💡 <b>Ask My Autonomous Agent (Click to prompt directly on Agent Platform):</b></sub>
 </p>
 
 <p align="center">
-  <a href="https://anuragbasuri.vercel.app/chat?prompt=What+is+Anurag%27s+backend+and+distributed+systems+architecture+experience%3F">
+  <a href="https://cortex-anurag.vercel.app/chat?prompt=What+is+Anurag%27s+backend+and+distributed+systems+architecture+experience%3F">
     <img src="https://img.shields.io/badge/💬_Ask_Agent-Backend_Architecture%3F-00D4FF?style=flat-square&logo=fastapi&logoColor=white" alt="Ask Backend"/>
   </a>&nbsp;&nbsp;
-  <a href="https://anuragbasuri.vercel.app/chat?prompt=Explain+Anurag%27s+LangGraph+AI+agent+and+6-layer+LLM+cascade">
+  <a href="https://cortex-anurag.vercel.app/chat?prompt=Explain+Anurag%27s+LangGraph+AI+agent+and+6-layer+LLM+cascade">
     <img src="https://img.shields.io/badge/💬_Ask_Agent-AI_Agent_Design%3F-A855F7?style=flat-square&logo=langchain&logoColor=white" alt="Ask AI Agent"/>
   </a>&nbsp;&nbsp;
-  <a href="https://anuragbasuri.vercel.app/chat?prompt=What+are+Anurag%27s+top+LeetCode+and+algorithm+problem-solving+stats%3F">
+  <a href="https://cortex-anurag.vercel.app/chat?prompt=What+are+Anurag%27s+top+LeetCode+and+algorithm+problem-solving+stats%3F">
     <img src="https://img.shields.io/badge/💬_Ask_Agent-LeetCode_Stats%3F-FF2D95?style=flat-square&logo=leetcode&logoColor=white" alt="Ask LeetCode"/>
   </a>&nbsp;&nbsp;
-  <a href="https://anuragbasuri.vercel.app/chat?prompt=Why+should+we+hire+Anurag+Basuri+as+a+Software+Engineer%3F">
+  <a href="https://cortex-anurag.vercel.app/chat?prompt=Why+should+we+hire+Anurag+Basuri+as+a+Software+Engineer%3F">
     <img src="https://img.shields.io/badge/💬_Ask_Agent-Why_Hire_Anurag%3F-3FB950?style=flat-square&logo=target&logoColor=white" alt="Why Hire"/>
   </a>
 </p>
@@ -101,21 +100,6 @@
 
 <br>
 
-<!-- 👾 RETRO ARCADE CYBER DECK & RPG ATTRIBUTES -->
-<h2 align="center">Character Attributes &amp; Inventory</h2>
-
-<p align="center">
-  <img alt="Retro Arcade Character HUD" src="./assets/arcade-hud.svg" width="100%" />
-</p>
-
-<br>
-
-<!-- DIVIDER -->
-<p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="" />
-</p>
-
-<br>
 
 <!-- FEATURED PROJECTS (GLOW CARDS) -->
 <h2 align="center">What I've Built</h2>
@@ -127,7 +111,7 @@
     <img src="./assets/card-portfolio.svg" width="48%" alt="Anurag.dev Portfolio" />
   </a>
   &nbsp;
-  <a href="https://anuragbasuri.vercel.app/chat">
+  <a href="https://cortex-anurag.vercel.app/chat">
     <img src="./assets/card-agent.svg" width="48%" alt="Autonomous Agent Console" />
   </a>
 </p>
@@ -264,7 +248,8 @@
 
 <p align="center">
   <a href="https://anuragbasuri.vercel.app/portfolio"><b>Portfolio</b></a> •
-  <a href="https://anuragbasuri.vercel.app/chat"><b>Agent Console</b></a> •
+  <a href="https://cortex-anurag.vercel.app/chat"><b>Agent Console</b></a> •
+  <a href="https://anuragbasuri.vercel.app/resume"><b>Resume (CV)</b></a> •
   <a href="https://linkedin.com/in/anuragbasuri"><b>LinkedIn</b></a> •
   <a href="https://github.com/Anurag-Basuri"><b>GitHub</b></a> •
   <a href="mailto:anuragbasuri@gmail.com"><b>Email</b></a>
